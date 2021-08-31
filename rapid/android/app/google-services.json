@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548268616414",
+    "project_id": "rapid-54fd8",
+    "storage_bucket": "rapid-54fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548268616414:android:a9ea3c3630db433bffb04f",
+        "android_client_info": {
+          "package_name": "com.example.rapid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548268616414-onvepami69loj9ljqj5id944ktsphrsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIyIePTaMgSYamz0T5cIBcE2trXawAbSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548268616414-onvepami69loj9ljqj5id944ktsphrsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
